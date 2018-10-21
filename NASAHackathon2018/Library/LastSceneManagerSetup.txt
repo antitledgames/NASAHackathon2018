@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/VR moon.unity
-  isLoaded: 1
-  isActive: 1
